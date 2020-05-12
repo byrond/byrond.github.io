@@ -1,0 +1,15 @@
+style: is-light
+height: is-medium
+items:
+  - title: GitHub
+    icon: fa-github
+    call_to_action_name: Profile
+    call_to_action_link: https://github.com/byrond
+  - title: Drupal
+    icon: fa-drupal
+    call_to_action_name: Profile
+    call_to_action_link: https://www.drupal.org/u/byrond
+  - title: LinkedIn
+    icon: fab fa-linkedin
+    call_to_action_name: Connect
+    call_to_action_link: https://www.linkedin.com/in/byron-duvall
