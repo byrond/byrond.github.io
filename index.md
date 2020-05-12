@@ -1,6 +1,7 @@
 ---
 title: Byron Duvall
 subtitle: Web Engineer
+callouts: home_callouts
 ---
 
 ## Welcome to GitHub Pages
