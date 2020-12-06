@@ -1,6 +1,6 @@
 title: Byron Duvall
 
-theme: minima
+remote_theme: jekyll/minima
 
 minima:
   social_links:
