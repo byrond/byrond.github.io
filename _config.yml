@@ -1,9 +1,3 @@
 title: Byron Duvall
 
-remote_theme: jekyll/minima
-
-minima:
-  social_links:
-    github: byrond
-    linkedin: byron-duvall
-    twitter: ByronDuvall
+remote_theme: chrisrhymes/bulma-clean-theme
