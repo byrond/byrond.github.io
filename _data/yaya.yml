@@ -1,0 +1,13 @@
+
+- title: Image Gallery Title
+  images:
+    - src: https://via.placeholder.com/400x225
+      link: https://via.placeholder.com/1200x675
+      alt: The alt text for the image
+      description: The image description
+      ratio: is-16by9
+    - src: https://via.placeholder.com/400x300
+      link: https://via.placeholder.com/1200x900
+      alt: The alt text for the image
+      description: The image description
+      ratio: is-4by3
