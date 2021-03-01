@@ -1,7 +1,7 @@
 ---
 layout: vrgallery
 title: Gumbo YaYa Experience
-gallery: yaya
+vrgallery: yaya
 ---
 
 It's gooood!
