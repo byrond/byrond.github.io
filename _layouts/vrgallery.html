@@ -21,7 +21,7 @@ hero_link_text: View all in DeoVR
                 <div class="card-image">
                     <a href="{{ image.link }}">
                         <figure class="image {{ image.ratio | default: is-16by9 }}">
-                            <img src="{{ include.src | absolute_url }}" alt="{{ include.alt }}">
+                            <img src="{{ image.src | absolute_url }}" alt="{{ image.alt }}">
                         </figure>
                     </a>
                 </div>
